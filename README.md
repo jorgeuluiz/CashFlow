@@ -37,7 +37,7 @@ Para obter uma cópia local funcionando, siga estes passos simples.
 
 1. Clone o repositório:
     ```sh
-    git clone https://github.com/jorgeuluiz/cashflow.git`
+    git clone https://github.com/jorgeuluiz/CashFlow.git`
     ```
 2. Preencha as informações no arquivo `appsettings.Development.json`.
 3. Execute a API e aproveite o seu teste :)
